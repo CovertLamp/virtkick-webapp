@@ -1,8 +1,8 @@
 # VirtKick. Cloud made easy.
 
-[![GPA](https://img.shields.io/codeclimate/github/virtkick/virtkick-webapp.svg)](https://codeclimate.com/github/virtkick/virtkick-webapp)
-[![Build status](https://img.shields.io/travis/virtkick/virtkick-webapp.svg)](https://travis-ci.org/virtkick/virtkick-webapp)
-[![Dependencies status](http://img.shields.io/gemnasium/virtkick/virtkick-webapp.svg)](https://gemnasium.com/virtkick/virtkick-webapp)
+[![GPA](https://img.shields.io/codeclimate/github/CovertLamp/virtkick-webapp.svg)](https://codeclimate.com/github/CovertLamp/virtkick-webapp)
+[![Build status](https://img.shields.io/travis/CovertLamp/virtkick-webapp.svg)](https://travis-ci.org/CovertLamp/virtkick-webapp)
+[![Dependencies status](http://img.shields.io/gemnasium/CovertLamp/virtkick-webapp.svg)](https://gemnasium.com/CovertLamp/virtkick-webapp)
 
 VirtKick is a simple, open source orchestrator.
 Managing virtual machines or Docker containers has never been easier.
@@ -11,7 +11,7 @@ That's the VirtKick web application.
 
 ## Issues
 
-Report bugs and feature requests in [virtkick](https://github.com/virtkick/virtkick) project.
+Report bugs and feature requests in [virtkick](https://github.com/CovertLamp/virtkick) project.
 
 ## Requirements
 
@@ -45,12 +45,10 @@ You can gor for Passenger, Thin or just WEBrick ([yes](http://stackoverflow.com/
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/virtkick/virtkick-website/blob/master/CONTRIBUTING.md). Thanks!
+See [CONTRIBUTING.md](https://github.com/CovertLamp/virtkick-website/blob/master/CONTRIBUTING.md). Thanks!
 
 
-# Sponsors
 
-[Become one now](https://www.virtkick.io/become-a-sponsor.html) - sponsoring packages are limited!
 
 
 # License
